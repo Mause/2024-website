@@ -29,5 +29,6 @@
     "luxon": "^3.4.4",
     "reset-css": "^5.0.2",
     "sheng": "^1.0.0"
-  }
+  },
+  "packageManager": "pnpm@9.6.0"
 }
